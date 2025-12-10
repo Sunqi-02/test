@@ -1,0 +1,5 @@
+{
+  "name": "SmartBuild AI",
+  "description": "An intelligent PC part picker that uses real-time market data to generate the best value-for-money builds based on your budget, with performance estimates and customization options.",
+  "requestFramePermissions": []
+}
